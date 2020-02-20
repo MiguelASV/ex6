@@ -23,4 +23,16 @@ body {
 .entry-header h1 {
     background-color: lightblue;
     color: white;
-  }
+}
+
+.italic {
+    font-style: italic;
+}
+
+.redText {
+    color: red;
+}
+
+
+
+
