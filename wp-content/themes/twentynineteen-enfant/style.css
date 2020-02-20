@@ -15,3 +15,7 @@
 body {
     font-family: 'Montserrat', sans-serif;
 }
+
+.entry .entry-title:before {
+    display: none;
+}
