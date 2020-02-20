@@ -19,3 +19,8 @@ body {
 .entry .entry-title:before {
     display: none;
 }
+
+.entry-header h1 {
+    background-color: lightblue;
+    color: white;
+  }
